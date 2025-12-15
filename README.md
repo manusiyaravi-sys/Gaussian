@@ -46,7 +46,8 @@ for i in range(n):
 
 ## Output:
 ![gaussian elimination]()
-![mai(6)](https://github.com/user-attachments/assets/ff2eec37-9aa4-48a6-82fa-e7ee6c4f9c82)
+<img width="1782" height="752" alt="image" src="https://github.com/user-attachments/assets/bf2c45c5-61c3-4bd8-8d2b-8f7cfa3de6b2" />
+
 
 
 ## Result:
